@@ -1,1 +1,3 @@
 Universitas Semarang
+stash@{0}: WIP on master: d89bdd6 third commit
+stash@{1}: WIP on master: fd30662 branch baru
